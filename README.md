@@ -23,15 +23,13 @@ I use **MySQL Workbench** on Windows to build and test queries with sample datas
    git clone https://github.com/oguzcamurr/sql-practice.git
 Run queries in MySQL Workbench:
 
-sql
-Kodu kopyala
+
 USE testdb;
 SOURCE queries/top_customers.sql;
 📊 Example Queries
 Create Database & Table
 
-sql
-Kodu kopyala
+
 CREATE DATABASE testdb;
 USE testdb;
 
@@ -43,8 +41,7 @@ CREATE TABLE customers (
 );
 Insert Sample Data
 
-sql
-Kodu kopyala
+
 INSERT INTO customers (name, city, spend)
 VALUES
 ('Ali', 'Istanbul', 120.50),
@@ -52,8 +49,7 @@ VALUES
 ('Mehmet', 'Izmir', 50.75);
 Get All Customers
 
-sql
-Kodu kopyala
+
 SELECT * FROM customers;
 🎯 Goals
 Practice SQL daily (from basics to advanced window functions)
