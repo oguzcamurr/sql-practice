@@ -1,7 +1,4 @@
-# sql-practice
-MySQL practice queries, datasets and case studies for data analytics and business problems.
-
- #SQL Practice by Oğuz Çamur
+#SQL Practice by Oğuz Çamur
 
 🗄️ This repository contains my SQL practice queries and case studies.  
 I use **MySQL Workbench** on Windows to build and test queries with sample datasets.  
@@ -66,4 +63,4 @@ Document queries for data analytics & business case studies
 Build a public SQL portfolio to showcase my skills
 
 👨‍💻 Author: Oğuz Çamur
-📬 Reach me on LinkedIn | GitHub
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/oguzcamur) | [GitHub](https://github.com/oguzcamurr)
