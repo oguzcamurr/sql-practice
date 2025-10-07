@@ -1,5 +1,6 @@
 # sql-practice
 MySQL practice queries, datasets and case studies for data analytics and business problems.
+
  #SQL Practice by Oğuz Çamur
 
 🗄️ This repository contains my SQL practice queries and case studies.  
