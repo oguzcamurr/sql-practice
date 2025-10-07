@@ -1,5 +1,6 @@
-<img width="1068" height="125" alt="image" src="https://github.com/user-attachments/assets/6048d241-1722-40e2-bb99-cd9e37aaea4e" />
-
+# SQL Practice by Oğuz Çamur
+📘 This repository contains my **SQL practice queries** and **case studies**.  
+I use **MySQL Workbench** on Windows to build and test queries with sample datasets. 
 
 ---
 
