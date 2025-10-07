@@ -21,15 +21,17 @@ I use **MySQL Workbench** on Windows to build and test queries with sample datas
 2. Clone this repo:  
    ```bash
    git clone https://github.com/oguzcamurr/sql-practice.git
+   ```
+   
 Run queries in MySQL Workbench:
-
-
+```bash
 USE testdb;
 SOURCE queries/top_customers.sql;
+```
+
 📊 Example Queries
 Create Database & Table
-
-
+```bash
 CREATE DATABASE testdb;
 USE testdb;
 
@@ -39,18 +41,20 @@ CREATE TABLE customers (
     city VARCHAR(50),
     spend DECIMAL(10,2)
 );
+```
+
 Insert Sample Data
-
-
+```bash
 INSERT INTO customers (name, city, spend)
 VALUES
 ('Ali', 'Istanbul', 120.50),
 ('Ayşe', 'Ankara', 300.00),
 ('Mehmet', 'Izmir', 50.75);
+```
 Get All Customers
-
-
+```bash
 SELECT * FROM customers;
+```
 🎯 Goals
 Practice SQL daily (from basics to advanced window functions)
 
